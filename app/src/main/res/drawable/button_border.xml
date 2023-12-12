@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#7B1C8C" /> <!-- Açık Mavi -->
+    <stroke
+        android:width="3dp"
+        android:color="#070101" /> <!-- Siyah -->
+    <corners android:radius="10dp" />
+    <padding
+        android:bottom="12dp"
+        android:left="12dp"
+        android:right="12dp"
+        android:top="12dp" />
+</shape>

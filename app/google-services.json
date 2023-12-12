@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610128939022",
+    "project_id": "todonotesapp-1ab94",
+    "storage_bucket": "todonotesapp-1ab94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610128939022:android:46cb1c57b361396aad945f",
+        "android_client_info": {
+          "package_name": "com.example.todonotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW5gbsEnL1FI6ksE8_vTVRuVQCZrLPXsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
